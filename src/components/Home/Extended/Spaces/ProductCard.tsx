@@ -79,7 +79,7 @@ const ProductCard = (props: Props) => {
             <div className="flex-grow border border-t-0 rounded-b">
               <div className="p-5">
                 <h6 className="mb-2 font-semibold leading-5">
-                  Nature's Harmony
+                  Nature&apos;s Harmony
                 </h6>
                 <p className="text-sm text-gray-900">
                   Bring the outdoors inside with our nature-inspired decor. Experience tranquility in your space.

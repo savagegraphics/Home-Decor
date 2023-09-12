@@ -57,7 +57,7 @@ const FiveX = (props: Props) => {
             Tunguska event
           </p>
           <p className="text-gray-700">
-            Delve into the mysterious Tunguska event, a natural phenomenon that left a lasting mark on Earth's history and scientific exploration.
+            Delve into the mysterious Tunguska event, a natural phenomenon that left a lasting mark on Earth&apos;s history and scientific exploration.
           </p>
         </div>
         <div>
@@ -109,7 +109,7 @@ const FiveX = (props: Props) => {
             Organically grow
           </p>
           <p className="text-gray-700">
-            Experience the beauty of Organically grow, a testament to nature's ability to flourish in the most unexpected places.
+            Experience the beauty of Organically grow, a testament to nature&apos;s ability to flourish in the most unexpected places.
           </p>
         </div>
       </div>
