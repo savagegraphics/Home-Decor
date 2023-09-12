@@ -44,7 +44,7 @@ const Contact = (props: Props) => {
 			</svg>
 		</button>
 	</div>
-	<p className="text-xs text-center sm:px-6 text-gray-400">Don't have an account?
+	<p className="text-xs text-center sm:px-6 text-gray-400">Don&apos;t have an account?
 		<a rel="noopener noreferrer" href="#" className="underline text-gray-100">Sign up</a>
 	</p>
     </div>
@@ -86,7 +86,7 @@ const Contact = (props: Props) => {
 			</svg>
 		</button>
 	</div>
-	<p className="text-xs text-center sm:px-6 text-gray-400">Don't have an account?
+	<p className="text-xs text-center sm:px-6 text-gray-400">Don&apos;t have an account?
 		<a rel="noopener noreferrer" href="#" className="underline text-gray-100">Sign up</a>
 	</p>
     </div>
