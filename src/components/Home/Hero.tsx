@@ -3,9 +3,7 @@ import React from 'react';
 function App() {
 
   return (
-    <div className="bg-white dark:bg-gray-900">
-
-
+    <div className="bg-white">
     <div className="mx-4 lg:mx-6 px-4 py-16 sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
       <div className="flex flex-col items-center justify-between lg:flex-row">
         <div className="mb-10 lg:max-w-lg lg:pr-5 lg:mb-0">
