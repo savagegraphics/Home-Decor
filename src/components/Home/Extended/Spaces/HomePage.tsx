@@ -52,7 +52,7 @@ const Four = (props: Props) => {
                 </div>
                 <div className="max-w-xl mb-6">
                   <h2 className="max-w-lg mb-6 font-sans text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl sm:leading-none">
-                  Elevate Your Home Decor Experience
+                  Elevate Your Home Decor Experience&quot;
                   </h2>
                   <p className="text-base text-gray-700 md:text-lg">
                   Step into a realm of timeless beauty and creativity. Dive into the art of decorating and let your imagination flourish.
