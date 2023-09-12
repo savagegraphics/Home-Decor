@@ -19,7 +19,7 @@ function App() {
               The Future of Ceramic Tiles
             </h2>
             <p className="text-base text-gray-700 md:text-lg">
-              Explore our brand new generation of ceramic tiles, designed to elevate your spaces with style and durability. Whether you're renovating your home or creating a stunning commercial environment, our ceramic tiles are the perfect choice.
+              Explore our brand new generation of ceramic tiles, designed to elevate your spaces with style and durability. Whether you&quot;re renovating your home or creating a stunning commercial environment, our ceramic tiles are the perfect choice.
             </p>
           </div>
 <div className="flex flex-col items-start md:flex-row">

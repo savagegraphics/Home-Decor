@@ -5,6 +5,8 @@ import HomePage from '@/components/Home/Extended/Spaces/HomePage'
 import RoomInspiration from '@/components/Home/Extended/Spaces/RoomInspirations'
 import FourImagesSection from '@/components/Home/Extended/Spaces/FourImagesSection'
 import ProductCard from '@/components/Home/Extended/Spaces/ProductCard'
+import Products from '@/components/Home/Products'
+import Service from '@/components/Home/Service'
 
 type Props = {}
 
@@ -12,8 +14,8 @@ const Spaces = (props: Props) => {
   return (
     <div>
       <HomePage/>
-    <RoomInspiration/>
-    <FourImagesSection/>
+    <Products/>
+      <Service/>
     <ProductCard/>
     <Footer/>
     </div>

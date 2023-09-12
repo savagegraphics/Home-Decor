@@ -6,7 +6,7 @@ const sevenX = (props: Props) => {
   return (
     <div className="relative px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
       <div className="absolute inset-0">
-        <div className="absolute inset-y-0 z-0 w-full h-full bg-gray-100 lg:w-3/4" />
+        <div className="absolute rounded-3xl inset-y-0 z-0 w-full h-full bg-gray-100 lg:w-3/4" />
       </div>
       <div className="relative">
         <div className="grid gap-12 row-gap-8 lg:grid-cols-2">
@@ -14,7 +14,7 @@ const sevenX = (props: Props) => {
             {/* Card 1 */}
             <div className="relative">
               <div className="relative">
-                <div className="flex items-center justify-center w-10 h-10 mb-3 rounded-full bg-teal-accent-400">
+                <div className="flex items-center justify-center w-10 h-10 mb-3 rounded-full bg-teal-400">
                   <svg
                     className="w-8 h-8 text-teal-900"
                     stroke="currentColor"
@@ -106,7 +106,7 @@ const sevenX = (props: Props) => {
                 Dive into Adventure
               </h6>
               <p className="text-sm text-gray-900">
-                Get ready for thrilling adventures with our outdoor gear and equipment that's perfect for exploration.
+                Get ready for thrilling adventures with our outdoor gear and equipment that&apos;s perfect for exploration.
               </p>
             </div>
           </div>

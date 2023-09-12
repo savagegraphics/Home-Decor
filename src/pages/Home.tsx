@@ -8,6 +8,8 @@ import Services from '@/components/Home/Services';
 import WHYUS from '@/components/Home/WHYUS';
 import Service from '@/components/Home/Service';
 import Product from '@/components/Home/Product';
+import FourImagesSection from '@/components/Home/Extended/Spaces/FourImagesSection';
+import RoomInspiration from '@/components/Home/Extended/Spaces/RoomInspirations';
 
 type Props = {}
 
@@ -19,8 +21,8 @@ const index = (props: Props) => {
       <Products/>
       <Services/>
       <WHYUS/>
-      <Product/>
-      <Service/>
+      <RoomInspiration/>
+    <FourImagesSection/>
       <Footer/>
     </div>
   )

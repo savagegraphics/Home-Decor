@@ -15,19 +15,19 @@ const WHYUS = (props: Props) => {
               </div>
               <div className="flex flex-col justify-center">
                 <div className="max-w-xl mb-4">
-                  <h2 className="max-w-lg mb-2 font-sans text-2xl font-bold tracking-tight text-gray-100 sm:text-4xl sm:leading-none">
+                  <h2 className="max-w-lg mb-2 font-sans text-2xl font-bold tracking-tight text-gray-800 sm:text-4xl sm:leading-none">
                   Why Choose Us?
                   </h2>
                 </div>
-                <div className="grid text-zinc-400 text-xs font-normal leading-relaxed sm:space-y-0">
-                    <p className='text-zinc-400 text-base font-normal leading-relaxed'>
+                <div className="grid text-text-xs font-normal leading-relaxed sm:space-y-0">
+                    <p className='text-base font-normal leading-relaxed'>
                     Neque quisque sollicitudin tempor vestibulum elit taciti. Sagittis tempor consequat turpis. Aenean curae elementum vestibulum dapibus vitae laoreet. Bibendum suspendisse himenaeos malesuada. Nisl taciti si platea dui. Euismod malesuada facilisis duis lobortis aliquet massa. Tincidunt vivamus ac consectetuer molestie pharetra. Sodales pulvinar non habitant.
   </p>
-  <p className='text-zinc-400 text-base font-normal leading-relaxed'> 
+  <p className='text-base font-normal leading-relaxed'> 
   Nisl taciti si platea dui. Euismod malesuada facilisis duis lobortis aliquet massa. Tincidunt vivamus ac consectetuer molestie pharetra. Sodales pulvinar non habitant.
 </p>
                 </div>
-                <div className="mt-4 text-zinc-400 text-base text-md font-normal leading-relaxed">
+                <div className="mt-4 text-gray-600 text-base text-md font-normal leading-relaxed">
                     <li>SUSTAINABLY SOURCED</li>
                     <li>EASY TO RECYCLE</li>
                     <li>IMPROVED HOME RESALE VALUE</li>
